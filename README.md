@@ -19,7 +19,8 @@ Ensure you have the following environment set up to build and run the applicatio
 - **Lightweight & Fast**: Smooth performance with minimal resource usage.
 
 ## Screenshots
-![Calculator App Screenshot](https://github.com/user-attachments/assets/443542db-8818-48de-b715-b9e4054bd42a)
+![404927079-443542db-8818-48de-b715-b9e4054bd42a](https://github.com/user-attachments/assets/e5db9347-b4dc-479a-a559-3c7e6fe63f32)
+
 
 ## Demo Video
 [Watch the demo video](https://github.com/user-attachments/assets/c4f3275c-2232-43c3-af49-94444d0aed58)
