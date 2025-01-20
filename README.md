@@ -26,7 +26,7 @@ Ensure you have the following environment set up to build and run the applicatio
 
 
 ## Download Demo Apk
-[app-release.apk](https://github.com/bholendraofficial/calc/blob/master/design/app-release.apk)
+[app-release.apk](https://github.com/bholendraofficial/calc/raw/refs/heads/master/design/app-release.apk)
 
 ## How to Build and Run
 Follow these steps to set up, build, and run the Calculator app:
