@@ -19,10 +19,11 @@ Ensure you have the following environment set up to build and run the applicatio
 - **Lightweight & Fast**: Smooth performance with minimal resource usage.
 
 ## Screenshots
-![Calculator App Screenshot](https://github.com/bholendraofficial/calc/blob/master/design/Screenshot_20250120_202812.png)
+![Calculator App Screenshot](https://github.com/user-attachments/assets/443542db-8818-48de-b715-b9e4054bd42a)
 
 ## Demo Video
-[Watch the demo video](https://github.com/bholendraofficial/calc/blob/master/design/Screen_recording_20250120_202945.mp4)
+[Watch the demo video](https://github.com/user-attachments/assets/c4f3275c-2232-43c3-af49-94444d0aed58)
+
 
 ## Download Demo Apk
 [app-release.apk](https://github.com/bholendraofficial/calc/blob/master/design/app-release.apk)
